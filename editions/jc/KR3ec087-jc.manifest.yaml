@@ -1,0 +1,3392 @@
+canonical_identifier: bkk:krp/KR3ec087/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ec087/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 瀕湖炮炙法
+  identifiers:
+    krp: KR3ec087
+  tags:
+    kr-categories: KR3ec
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ec087.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3ec087_001-jc.yaml, hash: 'sha256:31dec493718d26c92be92eb7aec8549607c7ed5cff1f810ae56617831a9cbb81'}
+  - {seq: 2, filename: KR3ec087_002-jc.yaml, hash: 'sha256:3e40fbbcf8e5671f687bbd1bfbc2d0599483ed486f63ed61589b553a594220f0'}
+  - {seq: 3, filename: KR3ec087_003-jc.yaml, hash: 'sha256:23f4d8ec992c9893d6424b0a9ed4f9dd9ec2630ec8e3e7cda7b6775e6015a175'}
+  - {seq: 4, filename: KR3ec087_004-jc.yaml, hash: 'sha256:871a6b1420098e4fffe5a065e4a766ce7ce6a4806518cc9ebdba17e446c09f9f'}
+  - {seq: 5, filename: KR3ec087_005-jc.yaml, hash: 'sha256:eb344f59cba98ced26b82b79ca0615c7b8dc1d695e956867920912ca7923a555'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3ec087_001-jc.markers.yaml, hash: 'sha256:56129c5bca8df5687813a6659d6eae8604787eb6d6649c36517dcb816ae2c84e'}
+  - {seq: 2, role: markers, filename: assets/KR3ec087_002-jc.markers.yaml, hash: 'sha256:c059ee27199e7495c5c151f0a5deb4b69880a03ef96e604cdb93546a4c87bd98'}
+  - {seq: 3, role: markers, filename: assets/KR3ec087_003-jc.markers.yaml, hash: 'sha256:c533655e862e1e870cab117f75708c390880e58c374f5be7ca44aeacfa544621'}
+  - {seq: 4, role: markers, filename: assets/KR3ec087_004-jc.markers.yaml, hash: 'sha256:318d871d26a931d2bf85f794e12ce2d3d0cf9414d71adf1f507618f3769b4c41'}
+  - {seq: 5, role: markers, filename: assets/KR3ec087_005-jc.markers.yaml, hash: 'sha256:fc927e41e393736cca8689d8ec717f9d64d0e85837844674ad57e542520a8764'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 4801
+  label: 卷一玉石類
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d2
+    span:
+    - body
+    - 5
+    - 56
+  label: 白堊
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d3
+    span:
+    - body
+    - 56
+    - 114
+  label: 梁上塵
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d4
+    span:
+    - body
+    - 114
+    - 229
+  label: 銀屑
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d5
+    span:
+    - body
+    - 229
+    - 273
+  label: 赤銅屑
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d6
+    span:
+    - body
+    - 273
+    - 381
+  label: 自然銅
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d7
+    span:
+    - body
+    - 381
+    - 422
+  label: 鉛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d8
+    span:
+    - body
+    - 422
+    - 494
+  label: 鉛霜
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d9
+    span:
+    - body
+    - 494
+    - 535
+  label: 密陀僧
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d10
+    span:
+    - body
+    - 535
+    - 640
+  label: 鐵華粉
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d11
+    span:
+    - body
+    - 640
+    - 758
+  label: 玉屑
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d12
+    span:
+    - body
+    - 758
+    - 844
+  label: 玉泉
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d13
+    span:
+    - body
+    - 844
+    - 1218
+  label: 雲母
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d14
+    span:
+    - body
+    - 1218
+    - 1244
+  label: 紫石英
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d15
+    span:
+    - body
+    - 1244
+    - 1462
+  label: 丹砂
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d16
+    span:
+    - body
+    - 1462
+    - 1548
+  label: 水銀
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d17
+    span:
+    - body
+    - 1548
+    - 1744
+  label: 水銀粉
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d18
+    span:
+    - body
+    - 1744
+    - 2010
+  label: 粉霜
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d19
+    span:
+    - body
+    - 2010
+    - 2287
+  label: 靈砂
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d20
+    span:
+    - body
+    - 2287
+    - 2477
+  label: 雄黃
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d21
+    span:
+    - body
+    - 2477
+    - 2617
+  label: 雌黃
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d22
+    span:
+    - body
+    - 2617
+    - 2679
+  label: 石膏
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d23
+    span:
+    - body
+    - 2679
+    - 2720
+  label: 滑石
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d24
+    span:
+    - body
+    - 2720
+    - 2753
+  label: 五色石脂
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d25
+    span:
+    - body
+    - 2753
+    - 2786
+  label: 爐甘石
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d26
+    span:
+    - body
+    - 2786
+    - 2804
+  label: 井泉石
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d27
+    span:
+    - body
+    - 2804
+    - 3030
+  label: 石鐘乳
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d28
+    span:
+    - body
+    - 3030
+    - 3087
+  label: 陽起石
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d29
+    span:
+    - body
+    - 3087
+    - 3181
+  label: 磁石
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d30
+    span:
+    - body
+    - 3181
+    - 3311
+  label: 代赭石
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d31
+    span:
+    - body
+    - 3311
+    - 3339
+  label: 禹餘糧
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d32
+    span:
+    - body
+    - 3339
+    - 3399
+  label: 太一餘糧
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d33
+    span:
+    - body
+    - 3399
+    - 3473
+  label: 曾青
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d34
+    span:
+    - body
+    - 3473
+    - 3575
+  label: 砒石
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d35
+    span:
+    - body
+    - 3575
+    - 3633
+  label: 土黃
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d36
+    span:
+    - body
+    - 3633
+    - 3688
+  label: 礞石
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d37
+    span:
+    - body
+    - 3688
+    - 3716
+  label: 花乳石
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d38
+    span:
+    - body
+    - 3716
+    - 3730
+  label: 金牙石
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d39
+    span:
+    - body
+    - 3730
+    - 3749
+  label: 蛇黃
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d40
+    span:
+    - body
+    - 3749
+    - 3783
+  label: 食鹽
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d41
+    span:
+    - body
+    - 3783
+    - 3811
+  label: 凝水石
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d42
+    span:
+    - body
+    - 3811
+    - 3983
+  label: 玄明粉
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d43
+    span:
+    - body
+    - 3983
+    - 4123
+  label: 硝石
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d44
+    span:
+    - body
+    - 4123
+    - 4169
+  label: 硇砂
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d45
+    span:
+    - body
+    - 4169
+    - 4422
+  label: 石硫黃
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d46
+    span:
+    - body
+    - 4422
+    - 4733
+  label: 礬石
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec087_jc_001-d2d47
+    span:
+    - body
+    - 4733
+    - 4801
+  label: 風化硝
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3.h1s1
+    span:
+    - body
+    - 0
+    - 8441
+  label: 卷二草類
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d2
+    span:
+    - body
+    - 4
+    - 125
+  label: 甘草
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d3
+    span:
+    - body
+    - 125
+    - 202
+  label: 黃耆
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d4
+    span:
+    - body
+    - 202
+    - 320
+  label: 人參
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d5
+    span:
+    - body
+    - 320
+    - 421
+  label: 桔梗
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d6
+    span:
+    - body
+    - 421
+    - 629
+  label: 黃精
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d7
+    span:
+    - body
+    - 629
+    - 687
+  label: 葳蕤
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d8
+    span:
+    - body
+    - 687
+    - 742
+  label: 知母
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d9
+    span:
+    - body
+    - 742
+    - 811
+  label: 肉蓯蓉
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d10
+    span:
+    - body
+    - 811
+    - 931
+  label: 赤箭
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d11
+    span:
+    - body
+    - 931
+    - 1002
+  label: 蒼朮
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d12
+    span:
+    - body
+    - 1002
+    - 1043
+  label: 狗脊
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d13
+    span:
+    - body
+    - 1043
+    - 1113
+  label: 巴戟天
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d14
+    span:
+    - body
+    - 1113
+    - 1142
+  label: 遠志
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d15
+    span:
+    - body
+    - 1142
+    - 1179
+  label: 淫羊藿
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d16
+    span:
+    - body
+    - 1179
+    - 1270
+  label: 仙茅
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d17
+    span:
+    - body
+    - 1270
+    - 1307
+  label: 玄參
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d18
+    span:
+    - body
+    - 1307
+    - 1338
+  label: 紫草
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d19
+    span:
+    - body
+    - 1338
+    - 1554
+  label: 黃連
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d20
+    span:
+    - body
+    - 1554
+    - 1625
+  label: 秦艽
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d21
+    span:
+    - body
+    - 1625
+    - 1666
+  label: 柴胡
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d22
+    span:
+    - body
+    - 1666
+    - 1698
+  label: 前胡
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d23
+    span:
+    - body
+    - 1698
+    - 1741
+  label: 獨活
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d24
+    span:
+    - body
+    - 1741
+    - 1795
+  label: 升麻
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d25
+    span:
+    - body
+    - 1795
+    - 1836
+  label: 苦參
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d26
+    span:
+    - body
+    - 1836
+    - 1880
+  label: 貝母
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d27
+    span:
+    - body
+    - 1880
+    - 1911
+  label: 龍膽
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d28
+    span:
+    - body
+    - 1911
+    - 1943
+  label: 細辛
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d29
+    span:
+    - body
+    - 1943
+    - 1965
+  label: 鬼督郵
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d30
+    span:
+    - body
+    - 1965
+    - 1991
+  label: 徐長卿
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d31
+    span:
+    - body
+    - 1991
+    - 2035
+  label: 白薇
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d32
+    span:
+    - body
+    - 2035
+    - 2060
+  label: 白前
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d33
+    span:
+    - body
+    - 2060
+    - 2286
+  label: 當歸
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d34
+    span:
+    - body
+    - 2286
+    - 2362
+  label: 蛇床
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d35
+    span:
+    - body
+    - 2362
+    - 2422
+  label: 白芷
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d36
+    span:
+    - body
+    - 2422
+    - 2475
+  label: 芍藥
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d37
+    span:
+    - body
+    - 2475
+    - 2509
+  label: 牡丹
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d38
+    span:
+    - body
+    - 2509
+    - 2534
+  label: 木香
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d39
+    span:
+    - body
+    - 2534
+    - 2585
+  label: 杜若
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d40
+    span:
+    - body
+    - 2585
+    - 2620
+  label: 高良薑
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d41
+    span:
+    - body
+    - 2620
+    - 2681
+  label: 豆蔻
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d42
+    span:
+    - body
+    - 2681
+    - 2717
+  label: 蓽茇
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d43
+    span:
+    - body
+    - 2717
+    - 2752
+  label: 蒟醬
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d44
+    span:
+    - body
+    - 2752
+    - 2784
+  label: 肉豆蔻
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d45
+    span:
+    - body
+    - 2784
+    - 2828
+  label: 補骨脂
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d46
+    span:
+    - body
+    - 2828
+    - 2903
+  label: 蓬莪朮
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d47
+    span:
+    - body
+    - 2903
+    - 2936
+  label: 荊三稜
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d48
+    span:
+    - body
+    - 2936
+    - 3096
+  label: 香附子
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d49
+    span:
+    - body
+    - 3096
+    - 3131
+  label: 澤蘭
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d50
+    span:
+    - body
+    - 3131
+    - 3179
+  label: 香薷
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d51
+    span:
+    - body
+    - 3179
+    - 3210
+  label: 赤車使者
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d52
+    span:
+    - body
+    - 3210
+    - 3405
+  label: 艾
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d53
+    span:
+    - body
+    - 3405
+    - 3462
+  label: 青蒿
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d54
+    span:
+    - body
+    - 3462
+    - 3499
+  label: 角蒿
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d55
+    span:
+    - body
+    - 3499
+    - 3524
+  label: 茺蔚
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d56
+    span:
+    - body
+    - 3524
+    - 3567
+  label: 劉寄奴草
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d57
+    span:
+    - body
+    - 3567
+    - 3592
+  label: 旋覆花
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d58
+    span:
+    - body
+    - 3592
+    - 3607
+  label: 青葙
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d59
+    span:
+    - body
+    - 3607
+    - 3636
+  label: 續斷
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d60
+    span:
+    - body
+    - 3636
+    - 3665
+  label: 漏蘆
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d61
+    span:
+    - body
+    - 3665
+    - 3692
+  label: 飛廉
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d62
+    span:
+    - body
+    - 3692
+    - 3716
+  label: 葫蘆巴
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d63
+    span:
+    - body
+    - 3716
+    - 3735
+  label: 蠡實
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d64
+    span:
+    - body
+    - 3735
+    - 3762
+  label: 惡實
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d65
+    span:
+    - body
+    - 3762
+    - 3811
+  label: 枲耳
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d66
+    span:
+    - body
+    - 3811
+    - 3873
+  label: 蘘荷
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d67
+    span:
+    - body
+    - 3873
+    - 3907
+  label: 麻黃
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d68
+    span:
+    - body
+    - 3907
+    - 3941
+  label: 燈心草
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d69
+    span:
+    - body
+    - 3941
+    - 4053
+  label: 乾地黃
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d70
+    span:
+    - body
+    - 4053
+    - 4278
+  label: 熟地黃
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d71
+    span:
+    - body
+    - 4278
+    - 4328
+  label: 牛膝
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d72
+    span:
+    - body
+    - 4328
+    - 4381
+  label: 紫菀
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d73
+    span:
+    - body
+    - 4381
+    - 4486
+  label: 麥門冬
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d74
+    span:
+    - body
+    - 4486
+    - 4515
+  label: 敗醬
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d75
+    span:
+    - body
+    - 4515
+    - 4565
+  label: 款冬花
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d76
+    span:
+    - body
+    - 4565
+    - 4608
+  label: 瞿麥
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d77
+    span:
+    - body
+    - 4608
+    - 4634
+  label: 王不留行
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d78
+    span:
+    - body
+    - 4634
+    - 4669
+  label: 葶藶
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d79
+    span:
+    - body
+    - 4669
+    - 4761
+  label: 車前
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d80
+    span:
+    - body
+    - 4761
+    - 4778
+  label: 虎杖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d81
+    span:
+    - body
+    - 4778
+    - 4826
+  label: 蒺藜
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d82
+    span:
+    - body
+    - 4826
+    - 4938
+  label: 大黃
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d83
+    span:
+    - body
+    - 4938
+    - 5000
+  label: 商陸
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d84
+    span:
+    - body
+    - 5000
+    - 5041
+  label: 防葵
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d85
+    span:
+    - body
+    - 5041
+    - 5120
+  label: 大戟
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d86
+    span:
+    - body
+    - 5120
+    - 5198
+  label: 甘遂
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d87
+    span:
+    - body
+    - 5198
+    - 5221
+  label: 續隨子
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d88
+    span:
+    - body
+    - 5221
+    - 5265
+  label: 莨菪
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d89
+    span:
+    - body
+    - 5265
+    - 5288
+  label: 雲實
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d90
+    span:
+    - body
+    - 5288
+    - 5386
+  label: 蓖麻子
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d91
+    span:
+    - body
+    - 5386
+    - 5480
+  label: 常山
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d92
+    span:
+    - body
+    - 5480
+    - 5503
+  label: 藜蘆
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d93
+    span:
+    - body
+    - 5503
+    - 6148
+  label: 附子
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d94
+    span:
+    - body
+    - 6148
+    - 6246
+  label: 天雄
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d95
+    span:
+    - body
+    - 6246
+    - 6251
+  label: 側子
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d96
+    span:
+    - body
+    - 6251
+    - 6277
+  label: 烏頭
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d97
+    span:
+    - body
+    - 6277
+    - 6564
+  label: 天南星
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d98
+    span:
+    - body
+    - 6564
+    - 6833
+  label: 半夏
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d99
+    span:
+    - body
+    - 6833
+    - 6865
+  label: 射干
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d100
+    span:
+    - body
+    - 6865
+    - 6920
+  label: 芫花
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d101
+    span:
+    - body
+    - 6920
+    - 6957
+  label: 莽草
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d102
+    span:
+    - body
+    - 6957
+    - 7103
+  label: 菟絲子
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d103
+    span:
+    - body
+    - 7103
+    - 7147
+  label: 五味子
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d104
+    span:
+    - body
+    - 7147
+    - 7223
+  label: 覆盆子
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d105
+    span:
+    - body
+    - 7223
+    - 7258
+  label: 馬兜鈴
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d106
+    span:
+    - body
+    - 7258
+    - 7316
+  label: 牽牛子
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d107
+    span:
+    - body
+    - 7316
+    - 7434
+  label: 栝蔞
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d108
+    span:
+    - body
+    - 7434
+    - 7552
+  label: 天門冬
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d109
+    span:
+    - body
+    - 7552
+    - 7610
+  label: 百部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d110
+    span:
+    - body
+    - 7610
+    - 7790
+  label: 何首烏
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d111
+    span:
+    - body
+    - 7790
+    - 7822
+  label: 女葳
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d112
+    span:
+    - body
+    - 7822
+    - 7876
+  label: 茜草
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d113
+    span:
+    - body
+    - 7876
+    - 7937
+  label: 防己
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d114
+    span:
+    - body
+    - 7937
+    - 7967
+  label: 赤地利
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d115
+    span:
+    - body
+    - 7967
+    - 7993
+  label: 絡石
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d116
+    span:
+    - body
+    - 7993
+    - 8013
+  label: 澤瀉
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d117
+    span:
+    - body
+    - 8013
+    - 8104
+  label: 菖蒲
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d118
+    span:
+    - body
+    - 8104
+    - 8170
+  label: 蒲黃
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d119
+    span:
+    - body
+    - 8170
+    - 8201
+  label: 水萍
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d120
+    span:
+    - body
+    - 8201
+    - 8240
+  label: 海藻
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d121
+    span:
+    - body
+    - 8240
+    - 8279
+  label: 昆布
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d122
+    span:
+    - body
+    - 8279
+    - 8314
+  label: 石斛
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d123
+    span:
+    - body
+    - 8314
+    - 8352
+  label: 骨碎補
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d124
+    span:
+    - body
+    - 8352
+    - 8391
+  label: 石葦
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d125
+    span:
+    - body
+    - 8391
+    - 8415
+  label: 卷柏
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec087_jc_002-d3d126
+    span:
+    - body
+    - 8415
+    - 8441
+  label: 馬勃
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 2824
+  label: 卷三木類
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d2
+    span:
+    - body
+    - 4
+    - 79
+  label: 柏實
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d3
+    span:
+    - body
+    - 79
+    - 148
+  label: 柏葉
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d4
+    span:
+    - body
+    - 148
+    - 265
+  label: 松脂
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d5
+    span:
+    - body
+    - 265
+    - 323
+  label: 辛夷
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d6
+    span:
+    - body
+    - 323
+    - 396
+  label: 沉香
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d7
+    span:
+    - body
+    - 396
+    - 423
+  label: 楓香脂
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d8
+    span:
+    - body
+    - 423
+    - 560
+  label: 乳香
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d9
+    span:
+    - body
+    - 560
+    - 567
+  label: 沒藥
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d10
+    span:
+    - body
+    - 567
+    - 596
+  label: 騏驎竭
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d11
+    span:
+    - body
+    - 596
+    - 674
+  label: 龍腦香
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d12
+    span:
+    - body
+    - 674
+    - 807
+  label: 樟腦
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d13
+    span:
+    - body
+    - 807
+    - 904
+  label: 柏木
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d14
+    span:
+    - body
+    - 904
+    - 981
+  label: 厚朴
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d15
+    span:
+    - body
+    - 981
+    - 1012
+  label: 杜仲
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d16
+    span:
+    - body
+    - 1012
+    - 1046
+  label: 乾漆
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d17
+    span:
+    - body
+    - 1046
+    - 1103
+  label: 椿樗
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d18
+    span:
+    - body
+    - 1103
+    - 1177
+  label: 楝實
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d19
+    span:
+    - body
+    - 1177
+    - 1213
+  label: 槐實
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d20
+    span:
+    - body
+    - 1213
+    - 1250
+  label: 槐花
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d21
+    span:
+    - body
+    - 1250
+    - 1316
+  label: 皂莢
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d22
+    span:
+    - body
+    - 1316
+    - 1361
+  label: 皂莢子
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d23
+    span:
+    - body
+    - 1361
+    - 1404
+  label: 無食子
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d24
+    span:
+    - body
+    - 1404
+    - 1435
+  label: 訶黎勒
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d25
+    span:
+    - body
+    - 1435
+    - 1487
+  label: 櫸木皮
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d26
+    span:
+    - body
+    - 1487
+    - 1518
+  label: 白楊木皮
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d27
+    span:
+    - body
+    - 1518
+    - 1571
+  label: 蘇方木
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d28
+    span:
+    - body
+    - 1571
+    - 1697
+  label: 巴豆
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d29
+    span:
+    - body
+    - 1697
+    - 1757
+  label: 大風子
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d30
+    span:
+    - body
+    - 1757
+    - 1908
+  label: 桑根
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d31
+    span:
+    - body
+    - 1908
+    - 1979
+  label: 楮實
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d32
+    span:
+    - body
+    - 1979
+    - 2056
+  label: 枳實
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d33
+    span:
+    - body
+    - 2056
+    - 2143
+  label: 梔子
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d34
+    span:
+    - body
+    - 2143
+    - 2187
+  label: 蕤核
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d35
+    span:
+    - body
+    - 2187
+    - 2229
+  label: 山茱萸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d36
+    span:
+    - body
+    - 2229
+    - 2255
+  label: 郁李
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d37
+    span:
+    - body
+    - 2255
+    - 2283
+  label: 衛矛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d38
+    span:
+    - body
+    - 2283
+    - 2340
+  label: 枸杞地骨皮
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d39
+    span:
+    - body
+    - 2340
+    - 2414
+  label: 牡荊瀝
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d40
+    span:
+    - body
+    - 2414
+    - 2456
+  label: 蔓荊實
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d41
+    span:
+    - body
+    - 2456
+    - 2505
+  label: 密蒙花
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d42
+    span:
+    - body
+    - 2505
+    - 2527
+  label: 賣子木
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d43
+    span:
+    - body
+    - 2527
+    - 2588
+  label: 茯苓
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d44
+    span:
+    - body
+    - 2588
+    - 2624
+  label: 琥珀
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d45
+    span:
+    - body
+    - 2624
+    - 2677
+  label: 豬苓
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d46
+    span:
+    - body
+    - 2677
+    - 2731
+  label: 雷丸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d47
+    span:
+    - body
+    - 2731
+    - 2754
+  label: 桑上寄生
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec087_jc_003-d4d48
+    span:
+    - body
+    - 2754
+    - 2824
+  label: 淡竹瀝
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5.h1s1
+    span:
+    - body
+    - 0
+    - 6441
+  label: 卷四蟲獸類
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d2
+    span:
+    - body
+    - 5
+    - 99
+  label: 蜂蜜
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d3
+    span:
+    - body
+    - 99
+    - 139
+  label: 露蜂房
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d4
+    span:
+    - body
+    - 139
+    - 398
+  label: 五倍子百藥煎
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d5
+    span:
+    - body
+    - 398
+    - 504
+  label: 桑螵蛸
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d6
+    span:
+    - body
+    - 504
+    - 680
+  label: 殭蠶
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d7
+    span:
+    - body
+    - 680
+    - 703
+  label: 樗雞
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d8
+    span:
+    - body
+    - 703
+    - 794
+  label: 斑蝥
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d9
+    span:
+    - body
+    - 794
+    - 975
+  label: 水蛭
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d10
+    span:
+    - body
+    - 975
+    - 1036
+  label: 蠐螬
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d11
+    span:
+    - body
+    - 1036
+    - 1060
+  label: 蟬蛻
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d12
+    span:
+    - body
+    - 1060
+    - 1087
+  label: 蜣螂
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d13
+    span:
+    - body
+    - 1087
+    - 1101
+  label: 蜚虻
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d14
+    span:
+    - body
+    - 1101
+    - 1236
+  label: 蟾蜍
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d15
+    span:
+    - body
+    - 1236
+    - 1365
+  label: 蟾酥
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d16
+    span:
+    - body
+    - 1365
+    - 1415
+  label: 蛤蟆
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d17
+    span:
+    - body
+    - 1415
+    - 1524
+  label: 蜈蚣
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d18
+    span:
+    - body
+    - 1524
+    - 1554
+  label: 馬陸
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d19
+    span:
+    - body
+    - 1554
+    - 1630
+  label: 蚯蚓
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d20
+    span:
+    - body
+    - 1630
+    - 1763
+  label: 龍骨
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d21
+    span:
+    - body
+    - 1763
+    - 1773
+  label: 龍齒
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d22
+    span:
+    - body
+    - 1773
+    - 1781
+  label: 鼉甲
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d23
+    span:
+    - body
+    - 1781
+    - 1826
+  label: 鯪鯉甲
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d24
+    span:
+    - body
+    - 1826
+    - 1870
+  label: 石龍子
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d25
+    span:
+    - body
+    - 1870
+    - 1976
+  label: 蛤蚧
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d26
+    span:
+    - body
+    - 1976
+    - 2061
+  label: 蛇蛻
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d27
+    span:
+    - body
+    - 2061
+    - 2248
+  label: 白花蛇
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d28
+    span:
+    - body
+    - 2248
+    - 2317
+  label: 烏賊魚骨
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d29
+    span:
+    - body
+    - 2317
+    - 2352
+  label: 龜甲
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d30
+    span:
+    - body
+    - 2352
+    - 2370
+  label: 秦龜甲
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d31
+    span:
+    - body
+    - 2370
+    - 2457
+  label: 綠毛龜
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d32
+    span:
+    - body
+    - 2457
+    - 2692
+  label: 鱉甲
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d33
+    span:
+    - body
+    - 2692
+    - 2770
+  label: 蟹
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d34
+    span:
+    - body
+    - 2770
+    - 2860
+  label: 牡蠣
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d35
+    span:
+    - body
+    - 2860
+    - 3075
+  label: 真珠
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d36
+    span:
+    - body
+    - 3075
+    - 3182
+  label: 海蛤
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d37
+    span:
+    - body
+    - 3182
+    - 3298
+  label: 石決明
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d38
+    span:
+    - body
+    - 3298
+    - 3351
+  label: 蛤粉
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d39
+    span:
+    - body
+    - 3351
+    - 3376
+  label: 魁蛤
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d40
+    span:
+    - body
+    - 3376
+    - 3420
+  label: 貝子
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d41
+    span:
+    - body
+    - 3420
+    - 3467
+  label: 珂
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d42
+    span:
+    - body
+    - 3467
+    - 3718
+  label: 甲香
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d43
+    span:
+    - body
+    - 3718
+    - 3808
+  label: 人牙
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d44
+    span:
+    - body
+    - 3808
+    - 3870
+  label: 糞清
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d45
+    span:
+    - body
+    - 3870
+    - 3915
+  label: 人中黃
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d46
+    span:
+    - body
+    - 3915
+    - 3953
+  label: 爪甲
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d47
+    span:
+    - body
+    - 3953
+    - 4057
+  label: 亂髮
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d48
+    span:
+    - body
+    - 4057
+    - 4172
+  label: 天靈蓋
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d49
+    span:
+    - body
+    - 4172
+    - 4321
+  label: 人胞
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d50
+    span:
+    - body
+    - 4321
+    - 4369
+  label: 胞衣水
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d51
+    span:
+    - body
+    - 4369
+    - 4455
+  label: 豬脂
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d52
+    span:
+    - body
+    - 4455
+    - 4522
+  label: 白馬陰莖
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d53
+    span:
+    - body
+    - 4522
+    - 4595
+  label: 阿膠
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d54
+    span:
+    - body
+    - 4595
+    - 4630
+  label: 牛黃
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d55
+    span:
+    - body
+    - 4630
+    - 4706
+  label: 虎骨
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d56
+    span:
+    - body
+    - 4706
+    - 4794
+  label: 虎睛
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d57
+    span:
+    - body
+    - 4794
+    - 4846
+  label: 象膽
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d58
+    span:
+    - body
+    - 4846
+    - 5032
+  label: 犀角
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d59
+    span:
+    - body
+    - 5032
+    - 5055
+  label: 熊脂
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d60
+    span:
+    - body
+    - 5055
+    - 5083
+  label: 熊掌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d61
+    span:
+    - body
+    - 5083
+    - 5158
+  label: 羚羊角
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d62
+    span:
+    - body
+    - 5158
+    - 5346
+  label: 鹿茸
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d63
+    span:
+    - body
+    - 5346
+    - 5459
+  label: 鹿角
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d64
+    span:
+    - body
+    - 5459
+    - 5888
+  label: 白膠
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d65
+    span:
+    - body
+    - 5888
+    - 6088
+  label: 麋角
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d66
+    span:
+    - body
+    - 6088
+    - 6115
+  label: 麝香
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d67
+    span:
+    - body
+    - 6115
+    - 6129
+  label: 貓屎
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d68
+    span:
+    - body
+    - 6129
+    - 6169
+  label: 膃肭臍
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d69
+    span:
+    - body
+    - 6169
+    - 6177
+  label: 蝟皮
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d70
+    span:
+    - body
+    - 6177
+    - 6285
+  label: 雄雀屎
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d71
+    span:
+    - body
+    - 6285
+    - 6347
+  label: 伏翼
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d72
+    span:
+    - body
+    - 6347
+    - 6378
+  label: 天鼠屎
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d73
+    span:
+    - body
+    - 6378
+    - 6409
+  label: 五靈脂
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec087_jc_004-d5d74
+    span:
+    - body
+    - 6409
+    - 6441
+  label: 鴟頭
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6.h1s1
+    span:
+    - body
+    - 0
+    - 2759
+  label: 卷五果菜米穀類
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d2
+    span:
+    - body
+    - 7
+    - 37
+  label: 山楂
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d3
+    span:
+    - body
+    - 37
+    - 91
+  label: 白柿
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d4
+    span:
+    - body
+    - 91
+    - 147
+  label: 醂柿
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d5
+    span:
+    - body
+    - 147
+    - 185
+  label: 柿糕
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d6
+    span:
+    - body
+    - 185
+    - 220
+  label: 石榴皮
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d7
+    span:
+    - body
+    - 220
+    - 520
+  label: 黃橘皮
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d8
+    span:
+    - body
+    - 520
+    - 579
+  label: 青橘皮
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d9
+    span:
+    - body
+    - 579
+    - 600
+  label: 橘核
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d10
+    span:
+    - body
+    - 600
+    - 760
+  label: 薯蕷
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d11
+    span:
+    - body
+    - 760
+    - 837
+  label: 李根皮
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d12
+    span:
+    - body
+    - 837
+    - 926
+  label: 杏仁
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d13
+    span:
+    - body
+    - 926
+    - 994
+  label: 烏梅
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d14
+    span:
+    - body
+    - 994
+    - 1088
+  label: 桃核仁
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d15
+    span:
+    - body
+    - 1088
+    - 1132
+  label: 桃花
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d16
+    span:
+    - body
+    - 1132
+    - 1165
+  label: 桃莖及白皮
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d17
+    span:
+    - body
+    - 1165
+    - 1204
+  label: 桃膠
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d18
+    span:
+    - body
+    - 1204
+    - 1297
+  label: 木瓜
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d19
+    span:
+    - body
+    - 1297
+    - 1408
+  label: 枇杷葉
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d20
+    span:
+    - body
+    - 1408
+    - 1456
+  label: 橡實
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d21
+    span:
+    - body
+    - 1456
+    - 1478
+  label: 橡實的鬥殼
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d22
+    span:
+    - body
+    - 1478
+    - 1495
+  label: 槲若
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d23
+    span:
+    - body
+    - 1495
+    - 1698
+  label: 檳榔
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d24
+    span:
+    - body
+    - 1698
+    - 1739
+  label: 大腹子
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d25
+    span:
+    - body
+    - 1739
+    - 1763
+  label: 椰子
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d26
+    span:
+    - body
+    - 1763
+    - 1860
+  label: 蜀椒
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d27
+    span:
+    - body
+    - 1860
+    - 1890
+  label: 蓽澄茄
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d28
+    span:
+    - body
+    - 1890
+    - 1978
+  label: 吳茱萸
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d29
+    span:
+    - body
+    - 1978
+    - 2019
+  label: 甜瓜子仁
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d30
+    span:
+    - body
+    - 2019
+    - 2122
+  label: 甜瓜蒂
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d31
+    span:
+    - body
+    - 2122
+    - 2241
+  label: 蓮實
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d32
+    span:
+    - body
+    - 2241
+    - 2251
+  label: 荷葉
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d33
+    span:
+    - body
+    - 2251
+    - 2314
+  label: 芡實
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d34
+    span:
+    - body
+    - 2314
+    - 2334
+  label: 韭子
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d35
+    span:
+    - body
+    - 2334
+    - 2370
+  label: 胡蔥
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d36
+    span:
+    - body
+    - 2370
+    - 2476
+  label: 灰藋
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d37
+    span:
+    - body
+    - 2476
+    - 2591
+  label: 胡麻
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d38
+    span:
+    - body
+    - 2591
+    - 2658
+  label: 大麻
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d39
+    span:
+    - body
+    - 2658
+    - 2689
+  label: 薏苡仁
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d40
+    span:
+    - body
+    - 2689
+    - 2728
+  label: 罌粟殼
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec087_jc_005-d6d41
+    span:
+    - body
+    - 2728
+    - 2759
+  label: 扁豆
+  type: section
+  level: 2
+hash: sha256:abb4bff763de94eba871f2b9c203c68433b93e51881d26d4f0fe80edac718816
